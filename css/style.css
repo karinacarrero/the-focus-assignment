@@ -1,0 +1,9 @@
+html {
+
+   background-image: url('../img/large-banner-image.png');
+   background-repeat: no-repeat;
+   position: absolute;
+   width: 100vw;
+   height: 20px;
+}
+
