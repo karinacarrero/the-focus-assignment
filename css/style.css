@@ -7,3 +7,8 @@ html {
    height: 20px;
 }
 
+.header img:nth-child(1){
+  position: absolute;
+  left: 650px;
+
+}
