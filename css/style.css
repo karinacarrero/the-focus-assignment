@@ -12,3 +12,10 @@ html {
   left: 650px;
 
 }
+.header h1:nth-child(2){
+  position: absolute;
+  font-family:'pacifico', myriad pro;
+  font-size: 50px;
+  left: 800px;
+}
+
