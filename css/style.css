@@ -16,8 +16,9 @@ html {
 .header h1:nth-child(2){
   position: absolute;
   font-family:'pacifico', myriad pro;
-  font-size: 50px;
-  left: 800px;
+  font-size: 60px;
+  left: 690px;
+  top: 90px;
 }
 
 .header p:nth-child(3){
